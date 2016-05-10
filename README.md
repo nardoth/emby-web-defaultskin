@@ -19,7 +19,7 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby-web-nardothskin/package.json
+Install into the app by installing a plugin from a url. The url is: http://nardoth.github.io/emby-web-nardothskin/package.json
 
 # Local Testing
 
