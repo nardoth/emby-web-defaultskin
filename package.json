@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "description": "Custom Emby Skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby-web-nardothskin",
+    "homepage": "https://github.com/nardoth/emby-web-nardothskin",
     "thumb": "",
     "backdrop": ""
 }
